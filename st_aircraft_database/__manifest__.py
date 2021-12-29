@@ -14,7 +14,9 @@ This is a dev version of application
     'website': 'https://simstech.cloud',
     'images' : [],
     'depends' : [],
-    'data': [],
+    'data': [
+        'views/aircraft.xml'
+    ],
     'demo': [],
     'installable': True,
     'application': True,
